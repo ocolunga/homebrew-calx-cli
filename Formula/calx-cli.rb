@@ -3,8 +3,8 @@ class CalxCli < Formula
 
   desc "CLI tool for displaying calendar information with terminal graphics"
   homepage "https://github.com/ocolunga/calx"
-  url "https://files.pythonhosted.org/packages/92/78/10c9d5f8ed3134479083fcecaa5db84bca510751a70ea9191673010c5c54/calx_cli-0.1.1.tar.gz"
-  sha256 "f39032fd502dedb618398398451fc04a02ab83e721ad50f77520107ea6dea312"
+  url "https://files.pythonhosted.org/packages/75/ad/4711ef941ef990978ecc950cd59911f75df62c0b131b05970cd7607146a8/calx_cli-0.2.0.tar.gz"
+  sha256 "98f5a2eb2850dbb9f550ec35ac061fc6834ffd04b05b442f6755417e350d29ac"
   license "MIT"
 
   depends_on "python@3.12"
